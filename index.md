@@ -19,7 +19,7 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 <table>
   <tr>
    <td>
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image1.png" width="300" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
@@ -27,7 +27,7 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 
 
 
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image2.png" width="300" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -37,7 +37,7 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 
 
 
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
@@ -45,7 +45,7 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 
 
 
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image4.png" width="300" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -78,5 +78,5 @@ The first specification published by EBSec is the **[Enterprise Blockchain Secur
 
 Anyone can contribute to the specifications provided by EBSec. The process is through a standard GitHub workflow. Simply provide your ideas in the form of a pull request or open an issue in the specific specification’s Github repository.
 
-EBSec accepts members that may significantly contribute to the state of enterprise blockchain security. For inquiries please contact [info@cryptonics.consulting](mailto:info@cryptonics.consulting). ** **
+EBSec accepts members that may significantly contribute to the state of enterprise blockchain security. For inquiries please contact [info@cryptonics.consulting](mailto:info@cryptonics.consulting).
 
