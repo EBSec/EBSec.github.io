@@ -19,15 +19,18 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 <table>
   <tr>
    <td>
-<img src="images/image1.png" width="300" alt="alt_text" title="image_tooltip">
-
+     <a href="https://cryptonics.consulting/">
+        <img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
+     </a> 
    </td>
    <td>
 
 
 
 
-<img src="images/image2.png" width="300" alt="alt_text" title="image_tooltip">
+     <a href="https://solidified.io/">
+        <img src="images/image2.png" width="300" alt="alt_text" title="image_tooltip">
+     </a> 
 
    </td>
   </tr>
@@ -37,16 +40,18 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 
 
 
-<img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
-
+      <a href="https://parsiq.net/">
+        <img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
+     </a> 
    </td>
    <td>
 
 
 
 
-<img src="images/image4.png" width="300" alt="alt_text" title="image_tooltip">
-
+     <a href="https://s2grupo.es/en/home/">
+        <img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
+     </a> 
    </td>
   </tr>
 </table>
