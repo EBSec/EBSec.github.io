@@ -41,7 +41,7 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 
 
    <a href="https://parsiq.net/">
-        <img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
+        <img src="images/image1.png" width="300" alt="alt_text" title="image_tooltip">
      </a> 
    </td>
    <td>
@@ -50,7 +50,7 @@ To this end, EBSec focuses on guidelines, security specifications, and services 
 
 
    <a href="https://s2grupo.es/en/home/">
-        <img src="images/image3.png" width="300" alt="alt_text" title="image_tooltip">
+        <img src="images/image4.png" width="300" alt="alt_text" title="image_tooltip">
      </a> 
    </td>
   </tr>
